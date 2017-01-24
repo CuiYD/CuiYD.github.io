@@ -2,27 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://cuiyd.github.io/research/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <loc>http://cuiyd.github.io/research/res/</loc>
+    <lastmod>2017-01-24T18:02:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/publication/pub/</loc>
+    <lastmod>2017-01-24T18:01:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/contact/con/</loc>
+    <lastmod>2017-01-24T18:00:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/biography/bio/</loc>
+    <lastmod>2017-01-24T17:59:42+09:00</lastmod>
   </url>
   
   <url>
     <loc>http://cuiyd.github.io/biography/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cuiyd.github.io/tags/biography/</loc>
+    <lastmod>2017-01-24T17:59:42+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cuiyd.github.io/categories/biography/</loc>
+    <lastmod>2017-01-24T17:59:42+09:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cuiyd.github.io/biography/</loc>
   </url>
   
   <url>
@@ -31,58 +39,44 @@
   </url>
   
   <url>
-    <loc>http://cuiyd.github.io/tags/contact/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://cuiyd.github.io/categories/contact/</loc>
+    <lastmod>2017-01-24T18:00:24+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cuiyd.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://cuiyd.github.io/contact/</loc>
+    <lastmod>2017-01-24T18:00:24+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cuiyd.github.io/tags/publication/</loc>
+    <lastmod>2017-01-24T18:01:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cuiyd.github.io/categories/publication/</loc>
+    <lastmod>2017-01-24T18:01:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cuiyd.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>http://cuiyd.github.io/publication/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cuiyd.github.io/tags/research/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <lastmod>2017-01-24T18:01:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cuiyd.github.io/categories/research/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <lastmod>2017-01-24T18:02:24+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cuiyd.github.io/research/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <lastmod>2017-01-24T18:02:24+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,7 +87,7 @@
   
   <url>
     <loc>http://cuiyd.github.io/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <lastmod>2017-01-24T18:02:24+09:00</lastmod>
     <priority>0</priority>
   </url>
   
