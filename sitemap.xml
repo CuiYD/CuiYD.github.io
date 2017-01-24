@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://cuiyd.github.io/research/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/biography/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/tags/biography/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/categories/biography/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/biography/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/tags/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/categories/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/tags/publication/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/categories/publication/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/publication/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/tags/research/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/categories/research/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/research/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

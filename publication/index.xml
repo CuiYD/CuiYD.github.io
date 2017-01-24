@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Yunduan Cui&#39;s homepage</title>
+    <link>http://cuiyd.github.io/publication/index.xml</link>
+    <description>Recent content in Publications on Yunduan Cui&#39;s homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="http://cuiyd.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Publication</title>
+      <link>http://cuiyd.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cuiyd.github.io/publication/</guid>
+      <description>
+
+&lt;p&gt;&lt;font color=&#34;#555555&#34;&gt;
+&lt;a href=&#34;https://scholar.google.co.jp/citations?user=qUiCC-0AAAAJ&amp;amp;hl=ja&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Yunduan_Cui2&#34;&gt;Research Gate&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;international-conference&#34;&gt;International Conference&lt;/h3&gt;
+
+&lt;p&gt;Yunduan Cui, James Poon, Takamitsu Matsubara, Jaime Valls Miro, Kenji Sugimoto and Kimitoshi Yamazaki. “Environment-adaptive Interaction Primitives for Human-Robot Motor Skill Learning.&amp;rdquo; 2016 IEEE-RAS 16th International Conference on Humanoid Robots.&lt;/p&gt;
+
+&lt;p&gt;Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. “Kernel Dynamic Policy Programming: Practical Reinforcement Learning for High-dimensional Robots.&amp;rdquo; 2016 IEEE-RAS 16th International Conference on Humanoid Robots. &lt;font color=&#34;red&#34;&gt;(Best Oral Paper Award &lt;a href=&#34;http://www.humanoids2016.org/awards&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/a&gt;)&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. &amp;ldquo;Local Update Dynamic Policy Programming in reinforcement learning of pneumatic artificial muscle-driven humanoid hand control.&amp;rdquo; 2015 IEEE-RAS 15th International Conference on Humanoid Robots.&lt;/p&gt;
+
+&lt;p&gt;Yunduan Cui, Kazuhiko Takahashi, and Masafumi Hashimoto. &amp;ldquo;Remarks on quaternion neural network based controller with application to an inverted pendulum.&amp;rdquo; 2014 SICE Annual Conference.&lt;/p&gt;
+
+&lt;p&gt;Kazuhiko Takahashi, Sae Takahashi, Yunduan Cui and Masafumi Hashimoto. &amp;ldquo;Remarks on computational facial expression recognition from HOG features using quaternion multi-layer neural network.&amp;rdquo; 2014 International Conference on Engineering Applications of Neural Networks.&lt;/p&gt;
+
+&lt;p&gt;Yunduan Cui, Kazuhiko Takahashi, and Masafumi Hashimoto. &amp;ldquo;Remarks on robot controller application of Clifford multi-layer neural networks.&amp;rdquo; 2014 IEEE 13th International Workshop on Advanced Motion Control (AMC).&lt;/p&gt;
+
+&lt;p&gt;Yunduan Cui, Kazuhiko Takahashi, and Masafumi Hashimoto. &amp;ldquo;Design of control systems using quaternion neural network and its application to inverse kinematics of robot manipulator.&amp;rdquo; 2013 IEEE/SICE International Symposium on System Integration (SII).&lt;/p&gt;
+
+&lt;h3 id=&#34;journal&#34;&gt;Journal&lt;/h3&gt;
+
+&lt;p&gt;Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. &amp;ldquo;Pneumatic artificial muscle-driven robot control using local update reinforcement learning.&amp;rdquo; Advanced Robotics
+&lt;/font&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
