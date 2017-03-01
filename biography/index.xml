@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biographies on Yunduan Cui&#39;s homepage</title>
-    <link>https://cui.github.io/biography/index.xml</link>
-    <description>Recent content in Biographies on Yunduan Cui&#39;s homepage</description>
+    <title>Biography on Yunduan Cui&#39;s homepage</title>
+    <link>http://cuiyd.github.io/categories/biography/index.xml</link>
+    <description>Recent content in Biography on Yunduan Cui&#39;s homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Jan 2017 17:59:42 +0900</lastBuildDate>
-    <atom:link href="https://cui.github.io/biography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://cuiyd.github.io/categories/biography/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>biography</title>
-      <link>https://cui.github.io/biography/bio/</link>
+      <link>http://cuiyd.github.io/biography/bio/</link>
       <pubDate>Tue, 24 Jan 2017 17:59:42 +0900</pubDate>
       
-      <guid>https://cui.github.io/biography/bio/</guid>
+      <guid>http://cuiyd.github.io/biography/bio/</guid>
       <description>
 
 &lt;p&gt;&lt;font color=&#34;#555555&#34;&gt;&lt;/p&gt;
