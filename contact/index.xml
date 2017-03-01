@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Yunduan Cui&#39;s homepage</title>
+    <link>http://cuiyd.github.io/contact/index.xml</link>
+    <description>Recent content in Contacts on Yunduan Cui&#39;s homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 24 Jan 2017 18:00:24 +0900</lastBuildDate>
+    <atom:link href="http://cuiyd.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact Me</title>
+      <link>http://cuiyd.github.io/contact/con/</link>
+      <pubDate>Tue, 24 Jan 2017 18:00:24 +0900</pubDate>
+      
+      <guid>http://cuiyd.github.io/contact/con/</guid>
+      <description>
+
+&lt;p&gt;&lt;font color=&#34;#555555&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;e-mail&#34;&gt;E-mail&lt;/h2&gt;
+
+&lt;p&gt;cuiyunduan [at] gmail.com&lt;/p&gt;
+
+&lt;h2 id=&#34;address&#34;&gt;Address&lt;/h2&gt;
+
+&lt;p&gt;8916-5 Takayama, Ikoma, Nara 630-0192, Japan,&lt;/p&gt;
+
+&lt;p&gt;Intelligent System Control Laboratory,&lt;/p&gt;
+
+&lt;p&gt;Graduate School of Information Science,&lt;/p&gt;
+
+&lt;p&gt;Nara Institute of Science and Technology&lt;/p&gt;
+
+&lt;h2 id=&#34;google-map&#34;&gt;Google Map&lt;/h2&gt;
+
+&lt;script src=&#39;https://maps.googleapis.com/maps/api/js?v=3.exp&amp;key=AIzaSyDHiRIrM7PrWvWMxUfHQmy6-q1AMAl_r4Q&#39;&gt;&lt;/script&gt;&lt;div style=&#39;overflow:hidden;height:400px;width:520px;&#39;&gt;&lt;div id=&#39;gmap_canvas&#39; style=&#39;height:400px;width:520px;&#39;&gt;&lt;/div&gt;&lt;style&gt;#gmap_canvas img{max-width:none!important;background:none!important}&lt;/style&gt;&lt;/div&gt;&lt;a&gt;&lt;/a&gt; &lt;script type=&#39;text/javascript&#39;&gt;function init_map(){var myOptions = {zoom:12,center:new google.maps.LatLng(34.73261060000001,135.7339101),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById(&#39;gmap_canvas&#39;), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(34.73261060000001,135.7339101)});infowindow = new google.maps.InfoWindow({content:&#39;&lt;strong&gt;Nara Institute of Science and Technology&lt;/strong&gt;&lt;br&gt;8916-5 Takayama, Ikoma, Nara 630-0192, Japan&lt;br&gt; Nara&lt;br&gt;&#39;});google.maps.event.addListener(marker, &#39;click&#39;, function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, &#39;load&#39;, init_map);&lt;/script&gt;
+
+&lt;p&gt;&lt;/font&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
