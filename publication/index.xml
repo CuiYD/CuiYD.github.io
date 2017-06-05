@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Yunduan Cui&#39;s homepage</title>
-    <link>http://cuiyd.github.io/publication/index.xml</link>
+    <link>https://cui.github.io/publication/index.xml</link>
     <description>Recent content in Publications on Yunduan Cui&#39;s homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 24 Jan 2017 18:01:47 +0900</lastBuildDate>
-    <atom:link href="http://cuiyd.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cui.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Publication</title>
-      <link>http://cuiyd.github.io/publication/pub/</link>
+      <link>https://cui.github.io/publication/pub/</link>
       <pubDate>Tue, 24 Jan 2017 18:01:47 +0900</pubDate>
       
-      <guid>http://cuiyd.github.io/publication/pub/</guid>
+      <guid>https://cui.github.io/publication/pub/</guid>
       <description>
 
 &lt;p&gt;&lt;font color=&#34;#555555&#34;&gt;&lt;/p&gt;
@@ -23,10 +23,17 @@
 
 &lt;p&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Yunduan_Cui2&#34;&gt;Research Gate&lt;/a&gt;&lt;/p&gt;
 
+&lt;h2 id=&#34;journal&#34;&gt;Journal&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. &amp;ldquo;Pneumatic artificial muscle-driven robot control using local update reinforcement learning.&amp;rdquo; Advanced Robotics
+&lt;a href=&#34;http://www.tandfonline.com/doi/abs/10.1080/01691864.2016.1274680&#34;&gt;&lt;font color=&#34;blue&#34;&gt;link&lt;/font&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;h2 id=&#34;international-conference&#34;&gt;International Conference&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;James Poon, Yunduan Cui, Jaime Valls Miro, Takamitsu Matsubara and Kenji Sugimoto. “Local Driving Assistance from Demonstration for Mobility Aids .&amp;rdquo; IEEE-RAS 16th International Conference on Robotics and Automation 2017. (Accepted)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;James Poon, Yunduan Cui, Jaime Valls Miro, Takamitsu Matsubara and Kenji Sugimoto. “Local Driving Assistance from Demonstration for Mobility Aids .&amp;rdquo; IEEE-RAS 16th International Conference on Robotics and Automation 2017.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Yunduan Cui, James Poon, Takamitsu Matsubara, Jaime Valls Miro, Kenji Sugimoto and Kimitoshi Yamazaki. “Environment-adaptive Interaction Primitives for Human-Robot Motor Skill Learning.&amp;rdquo; 2016 IEEE-RAS 16th International Conference on Humanoid Robots. &lt;a href=&#34;http://ieeexplore.ieee.org/document/7803352/&#34;&gt;&lt;font color=&#34;blue&#34;&gt;link&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
@@ -50,13 +57,6 @@
 &lt;a href=&#34;http://ieeexplore.ieee.org/document/6776617/&#34;&gt;&lt;font color=&#34;blue&#34;&gt;link&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Yunduan Cui, Kazuhiko Takahashi, and Masafumi Hashimoto. &amp;ldquo; Remarks on quaternion neural networks with application to robot control.&amp;rdquo; 2013 SICE Annual Conference.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;journal&#34;&gt;Journal&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. &amp;ldquo;Pneumatic artificial muscle-driven robot control using local update reinforcement learning.&amp;rdquo; Advanced Robotics
-&lt;a href=&#34;http://www.tandfonline.com/doi/abs/10.1080/01691864.2016.1274680&#34;&gt;&lt;font color=&#34;blue&#34;&gt;link&lt;/font&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;/font&gt;&lt;/p&gt;
