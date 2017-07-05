@@ -26,20 +26,24 @@
 &lt;h2 id=&#34;journal&#34;&gt;Journal&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. &amp;ldquo;Pneumatic artificial muscle-driven robot control using local update reinforcement learning.&amp;rdquo; Advanced Robotics
-&lt;a href=&#34;http://www.tandfonline.com/doi/abs/10.1080/01691864.2016.1274680&#34;&gt;&lt;font color=&#34;blue&#34;&gt;link&lt;/font&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. &amp;ldquo;Kernel dynamic policy programming: Applicable reinforcement learning to robot systems with high dimensional states.&amp;rdquo; Neural Networks, 2017&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. &amp;ldquo;Pneumatic artificial muscle-driven robot control using local update reinforcement learning.&amp;rdquo; Advanced Robotics, 2017
+&lt;a href=&#34;http://www.tandfonline.com/doi/abs/10.1080/01691864.2016.1274680&#34;&gt;&lt;font color=&#34;blue&#34;&gt;link&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;international-conference&#34;&gt;International Conference&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;James Poon, Yunduan Cui, Jaime Valls Miro, Takamitsu Matsubara and Kenji Sugimoto. “Local Driving Assistance from Demonstration for Mobility Aids .&amp;rdquo; IEEE-RAS 16th International Conference on Robotics and Automation 2017.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Tsurumine Yoshihisa, Yunduan Cui, Eiji Uchibe and Takamitsu Matsubara. “Local Driving Assistance from Demonstration for Mobility Aids .&amp;rdquo; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2017.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Yunduan Cui, James Poon, Takamitsu Matsubara, Jaime Valls Miro, Kenji Sugimoto and Kimitoshi Yamazaki. “Environment-adaptive Interaction Primitives for Human-Robot Motor Skill Learning.&amp;rdquo; 2016 IEEE-RAS 16th International Conference on Humanoid Robots. &lt;a href=&#34;http://ieeexplore.ieee.org/document/7803352/&#34;&gt;&lt;font color=&#34;blue&#34;&gt;link&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;James Poon, Yunduan Cui, Jaime Valls Miro, Takamitsu Matsubara and Kenji Sugimoto. “Local Driving Assistance from Demonstration for Mobility Aids .&amp;rdquo; IEEE International Conference on Robotics and Automation (ICRA) 2017.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. “Kernel Dynamic Policy Programming: Practical Reinforcement Learning for High-dimensional Robots.&amp;rdquo; 2016 IEEE-RAS 16th International Conference on Humanoid Robots. (&lt;a href=&#34;http://www.humanoids2016.org/awards&#34;&gt;&lt;font color=&#34;red&#34;&gt;Best Oral Paper Award&lt;/font&gt;&lt;/a&gt;) &lt;a href=&#34;http://ieeexplore.ieee.org/document/7803345/&#34;&gt;&lt;font color=&#34;blue&#34;&gt;link&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Yunduan Cui, James Poon, Takamitsu Matsubara, Jaime Valls Miro, Kenji Sugimoto and Kimitoshi Yamazaki. “Environment-adaptive Interaction Primitives for Human-Robot Motor Skill Learning.&amp;rdquo; IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2016. &lt;a href=&#34;http://ieeexplore.ieee.org/document/7803352/&#34;&gt;&lt;font color=&#34;blue&#34;&gt;link&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. &amp;ldquo;Local Update Dynamic Policy Programming in reinforcement learning of pneumatic artificial muscle-driven humanoid hand control.&amp;rdquo; 2015 IEEE-RAS 15th International Conference on Humanoid Robots.
+&lt;li&gt;&lt;p&gt;Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. “Kernel Dynamic Policy Programming: Practical Reinforcement Learning for High-dimensional Robots.&amp;rdquo; IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2016. (&lt;a href=&#34;http://www.humanoids2016.org/awards&#34;&gt;&lt;font color=&#34;red&#34;&gt;Best Oral Paper Award&lt;/font&gt;&lt;/a&gt;) &lt;a href=&#34;http://ieeexplore.ieee.org/document/7803345/&#34;&gt;&lt;font color=&#34;blue&#34;&gt;link&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. &amp;ldquo;Local Update Dynamic Policy Programming in reinforcement learning of pneumatic artificial muscle-driven humanoid hand control.&amp;rdquo; IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2015.
 &lt;a href=&#34;http://ieeexplore.ieee.org/document/7363503/&#34;&gt;&lt;font color=&#34;blue&#34;&gt;link&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Yunduan Cui, Takamitsu Matsubara and Kenji Sugimoto. “An Empirical Comparison of Approximate Dynamic Policy Programming and LSPI for Simple Robot Motor Control Problems.” 2015 SICE Annual Conference.&lt;/p&gt;&lt;/li&gt;
