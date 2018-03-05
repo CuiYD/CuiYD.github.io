@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Yunduan Cui</title>
+    <link>http://cuiyd.github.io/home/</link>
+    <description>Recent content in Homes on Yunduan Cui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cuiyd.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://cuiyd.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cuiyd.github.io/home/about/</guid>
+      <description>Biography Education 2014 Oct - 2017 Sep
+Ph. D in Computer Science
+Nara Institute of Science and Technology, Japan.
+2012 Sep -2014 Sep
+Master of Computer Science
+Doshisha University, Japan.
+2008 Aug - 2012 Jul
+Bachelor of Electronic Engineering
+Xidian University, China. 
+Experience 2017 Sep - present
+Research Assistant Professor
+Nara Institute of Science and Technology, Japan.
+2014 Oct - 2017 Sep
+Research Assistant
+Nara Institute of Science and Technology, Japan.</description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>http://cuiyd.github.io/home/publications/</link>
+      <pubDate>Tue, 24 Jan 2017 18:01:47 +0900</pubDate>
+      
+      <guid>http://cuiyd.github.io/home/publications/</guid>
+      <description>Journal  Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. &amp;ldquo;Kernel dynamic policy programming: Applicable reinforcement learning to robot systems with high dimensional states.&amp;rdquo; Neural Networks, 2017. link
+ Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. &amp;ldquo;Pneumatic artificial muscle-driven robot control using local update reinforcement learning.&amp;rdquo; Advanced Robotics, 2017. link
+  International Conference  Tsurumine Yoshihisa, Yunduan Cui, Eiji Uchibe and Takamitsu Matsubara. “Deep Dynamic Policy Programming for Robot Control with Raw Images.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>http://cuiyd.github.io/home/contact/</link>
+      <pubDate>Tue, 24 Jan 2017 18:00:24 +0900</pubDate>
+      
+      <guid>http://cuiyd.github.io/home/contact/</guid>
+      <description>E-mail cuiyunduan [at] gmail.com
+Address 8916-5 Takayama, Ikoma, Nara 630-0192, Japan,
+Intelligent System Control Laboratory,
+Graduate School of Information Science,
+Nara Institute of Science and Technology
+Google Map #gmap_canvas img{max-width:none!important;background:none!important} function init_map(){var myOptions = {zoom:12,center:new google.maps.LatLng(34.73261060000001,135.7339101),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById(&#39;gmap_canvas&#39;), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(34.73261060000001,135.7339101)});infowindow = new google.maps.InfoWindow({content:&#39;Nara Institute of Science and Technology
+8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+Nara
+&#39;});google.maps.event.addListener(marker, &#39;click&#39;, function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, &#39;load&#39;, init_map);</description>
+    </item>
+    
+  </channel>
+</rss>
