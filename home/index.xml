@@ -18,26 +18,38 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cuiyd.github.io/home/about/</guid>
-      <description>Biography Education 2014 Oct - 2017 Sep
-Ph. D in Computer Science
-Nara Institute of Science and Technology, Japan.
-2012 Sep -2014 Sep
-MEng in Computer Science
-Doshisha University, Japan.
-2008 Aug - 2012 Jul
-BSc in Electronic Engineering
-Xidian University, China. 
-Experience 2017 Oct - 2019 Mar
+      <description>Biography Experience 2017 Oct - 2019 Mar
 Postdoctoral Fellow
-Robot Learning Laboratory, Nara Institute of Science and Technology, Japan.
+Robot Learning Laboratory,
+Nara Institute of Science and Technology, Japan.
 2017 Oct - 2019 Mar
-Research Assistant Professor</description>
+Research Assistant Professor
+Intelligent System Control Laboratory,
+Nara Institute of Science and Technology, Japan.
+2015 Apr - 2017 Sep
+Research Assistant
+Intelligent System Control Laboratory,
+Nara Institute of Science and Technology, Japan.
+2017 Mar
+Visiting Scholar
+Centre for Autonomous Systems,
+University of Technology, Sydney, Australia.</description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>http://cuiyd.github.io/home/publications/</link>
+      <pubDate>Tue, 24 Jan 2017 18:01:47 +0900</pubDate>
+      
+      <guid>http://cuiyd.github.io/home/publications/</guid>
+      <description>Preprint  Yunduan Cui, Shigeki Osaki, Takamitsu Matsubara. &amp;ldquo;Reinforcement Learning Ship Autopilot: Sample-efficient and Model Predictive Control-based Approach.&amp;rdquo; arXiv preprint arXiv:1901.07905 link  Journal  Yoshihisa Tsurumine, Yunduan Cui, Eiji Uchibe, and Takamitsu Matsubara. &amp;ldquo;Deep reinforcement learning with smooth policy update: Application to robotic cloth manipulation.&amp;rdquo; Robotics and Autonomous Systems, 2018. link
+ Yunduan Cui, James Poon, Jaime Valls Miro, Kimitoshi Yamazaki, Kenji Sugimoto, and Takamitsu Matsubara. &amp;ldquo;Environment-adaptive interaction primitives through visual context for human–robot motor skill learning.</description>
     </item>
     
     <item>
       <title>Contact Me</title>
       <link>http://cuiyd.github.io/home/contact/</link>
-      <pubDate>Mon, 28 Jan 2019 18:00:24 +0900</pubDate>
+      <pubDate>Thu, 28 Jan 2016 18:00:24 +0900</pubDate>
       
       <guid>http://cuiyd.github.io/home/contact/</guid>
       <description>E-mail cuiyunduan [at] gmail.com
@@ -49,16 +61,6 @@ Google Map #gmap_canvas img{max-width:none!important;background:none!important} 
 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
 Nara
 &#39;});google.maps.event.addListener(marker, &#39;click&#39;, function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, &#39;load&#39;, init_map);</description>
-    </item>
-    
-    <item>
-      <title>Publication</title>
-      <link>http://cuiyd.github.io/home/publications/</link>
-      <pubDate>Tue, 24 Jan 2017 18:01:47 +0900</pubDate>
-      
-      <guid>http://cuiyd.github.io/home/publications/</guid>
-      <description>Preprint  Yunduan Cui, Shigeki Osaki, Takamitsu Matsubara. &amp;ldquo;Reinforcement Learning Ship Autopilot: Sample-efficient and Model Predictive Control-based Approach.&amp;rdquo; arXiv preprint arXiv:1901.07905 link  Journal  Yoshihisa Tsurumine, Yunduan Cui, Eiji Uchibe, and Takamitsu Matsubara. &amp;ldquo;Deep reinforcement learning with smooth policy update: Application to robotic cloth manipulation.&amp;rdquo; Robotics and Autonomous Systems, 2018. link
- Yunduan Cui, James Poon, Jaime Valls Miro, Kimitoshi Yamazaki, Kenji Sugimoto, and Takamitsu Matsubara. &amp;ldquo;Environment-adaptive interaction primitives through visual context for human–robot motor skill learning.</description>
     </item>
     
   </channel>
