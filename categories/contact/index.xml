@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 18:00:24 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jan 2019 18:00:24 +0900</lastBuildDate>
     
 	<atom:link href="http://cuiyd.github.io/categories/contact/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,12 +15,12 @@
     <item>
       <title>Contact Me</title>
       <link>http://cuiyd.github.io/home/contact/</link>
-      <pubDate>Tue, 24 Jan 2017 18:00:24 +0900</pubDate>
+      <pubDate>Mon, 28 Jan 2019 18:00:24 +0900</pubDate>
       
       <guid>http://cuiyd.github.io/home/contact/</guid>
       <description>E-mail cuiyunduan [at] gmail.com
 Address 8916-5 Takayama, Ikoma, Nara 630-0192, Japan,
-Intelligent System Control Laboratory,
+Robot Learning Laboratory,
 Graduate School of Information Science,
 Nara Institute of Science and Technology
 Google Map #gmap_canvas img{max-width:none!important;background:none!important} function init_map(){var myOptions = {zoom:12,center:new google.maps.LatLng(34.73261060000001,135.7339101),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById(&#39;gmap_canvas&#39;), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(34.73261060000001,135.7339101)});infowindow = new google.maps.InfoWindow({content:&#39;Nara Institute of Science and Technology

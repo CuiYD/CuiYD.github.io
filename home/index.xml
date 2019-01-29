@@ -27,12 +27,28 @@ Doshisha University, Japan.
 2008 Aug - 2012 Jul
 BSc in Electronic Engineering
 Xidian University, China. 
-Experience 2017 Oct - present
-Research Assistant Professor
-Nara Institute of Science and Technology, Japan.
-2015 Apr - 2017 Sep
-Research Assistant
-Nara Institute of Science and Technology, Japan.</description>
+Experience 2017 Oct - 2019 Mar
+Postdoctoral Fellow
+Robot Learning Laboratory, Nara Institute of Science and Technology, Japan.
+2017 Oct - 2019 Mar
+Research Assistant Professor</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>http://cuiyd.github.io/home/contact/</link>
+      <pubDate>Mon, 28 Jan 2019 18:00:24 +0900</pubDate>
+      
+      <guid>http://cuiyd.github.io/home/contact/</guid>
+      <description>E-mail cuiyunduan [at] gmail.com
+Address 8916-5 Takayama, Ikoma, Nara 630-0192, Japan,
+Robot Learning Laboratory,
+Graduate School of Information Science,
+Nara Institute of Science and Technology
+Google Map #gmap_canvas img{max-width:none!important;background:none!important} function init_map(){var myOptions = {zoom:12,center:new google.maps.LatLng(34.73261060000001,135.7339101),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById(&#39;gmap_canvas&#39;), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(34.73261060000001,135.7339101)});infowindow = new google.maps.InfoWindow({content:&#39;Nara Institute of Science and Technology
+8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+Nara
+&#39;});google.maps.event.addListener(marker, &#39;click&#39;, function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, &#39;load&#39;, init_map);</description>
     </item>
     
     <item>
@@ -41,26 +57,8 @@ Nara Institute of Science and Technology, Japan.</description>
       <pubDate>Tue, 24 Jan 2017 18:01:47 +0900</pubDate>
       
       <guid>http://cuiyd.github.io/home/publications/</guid>
-      <description>Journal  Yoshihisa Tsurumine, Yunduan Cui, Eiji Uchibe, and Takamitsu Matsubara. &amp;ldquo;Deep reinforcement learning with smooth policy update: Application to robotic cloth manipulation.&amp;rdquo; Robotics and Autonomous Systems, 2018. link
- Yunduan Cui, James Poon, Jaime Valls Miro, Kimitoshi Yamazaki, Kenji Sugimoto, and Takamitsu Matsubara. &amp;ldquo;Environment-adaptive interaction primitives through visual context for human–robot motor skill learning.&amp;rdquo; Autonomous Robots, 2018. link
- Yunduan Cui, Takamitsu Matsubara, and Kenji Sugimoto. &amp;ldquo;Kernel dynamic policy programming: Applicable reinforcement learning to robot systems with high dimensional states.</description>
-    </item>
-    
-    <item>
-      <title>Contact Me</title>
-      <link>http://cuiyd.github.io/home/contact/</link>
-      <pubDate>Tue, 24 Jan 2017 18:00:24 +0900</pubDate>
-      
-      <guid>http://cuiyd.github.io/home/contact/</guid>
-      <description>E-mail cuiyunduan [at] gmail.com
-Address 8916-5 Takayama, Ikoma, Nara 630-0192, Japan,
-Intelligent System Control Laboratory,
-Graduate School of Information Science,
-Nara Institute of Science and Technology
-Google Map #gmap_canvas img{max-width:none!important;background:none!important} function init_map(){var myOptions = {zoom:12,center:new google.maps.LatLng(34.73261060000001,135.7339101),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById(&#39;gmap_canvas&#39;), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(34.73261060000001,135.7339101)});infowindow = new google.maps.InfoWindow({content:&#39;Nara Institute of Science and Technology
-8916-5 Takayama, Ikoma, Nara 630-0192, Japan
-Nara
-&#39;});google.maps.event.addListener(marker, &#39;click&#39;, function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, &#39;load&#39;, init_map);</description>
+      <description>Preprint  Yunduan Cui, Shigeki Osaki, Takamitsu Matsubara. &amp;ldquo;Reinforcement Learning Ship Autopilot: Sample-efficient and Model Predictive Control-based Approach.&amp;rdquo; arXiv preprint arXiv:1901.07905 link  Journal  Yoshihisa Tsurumine, Yunduan Cui, Eiji Uchibe, and Takamitsu Matsubara. &amp;ldquo;Deep reinforcement learning with smooth policy update: Application to robotic cloth manipulation.&amp;rdquo; Robotics and Autonomous Systems, 2018. link
+ Yunduan Cui, James Poon, Jaime Valls Miro, Kimitoshi Yamazaki, Kenji Sugimoto, and Takamitsu Matsubara. &amp;ldquo;Environment-adaptive interaction primitives through visual context for human–robot motor skill learning.</description>
     </item>
     
   </channel>
