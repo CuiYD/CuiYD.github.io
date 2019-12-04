@@ -48,15 +48,7 @@ Nara Institute of Science and Technology, Japan.
       <pubDate>Thu, 28 Jan 2016 18:00:24 +0900</pubDate>
       
       <guid>http://cuiyd.github.io/home/contact/</guid>
-      <description>E-mail cuiyunduan [at] gmail.com
-Address 8916-5 Takayama, Ikoma, Nara 630-0192, Japan,
-Robot Learning Laboratory,
-Graduate School of Information Science,
-Nara Institute of Science and Technology
-Google Map #gmap_canvas img{max-width:none!important;background:none!important} function init_map(){var myOptions = {zoom:12,center:new google.maps.LatLng(34.73261060000001,135.7339101),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById(&#39;gmap_canvas&#39;), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(34.73261060000001,135.7339101)});infowindow = new google.maps.InfoWindow({content:&#39;Nara Institute of Science and Technology
-8916-5 Takayama, Ikoma, Nara 630-0192, Japan
-Nara
-&#39;});google.maps.event.addListener(marker, &#39;click&#39;, function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, &#39;load&#39;, init_map);</description>
+      <description></description>
     </item>
     
   </channel>
