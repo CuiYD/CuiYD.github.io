@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>publication on Yunduan Cui</title>
@@ -18,9 +18,8 @@
       <pubDate>Tue, 24 Jan 2017 18:01:47 +0900</pubDate>
       
       <guid>http://cuiyd.github.io/home/publications/</guid>
-      <description>Under Review  Lingwei Zhu, Yunduan Cui, and Takamitsu Matsubara. &amp;ldquo;Dynamic Actor-Advisor Programming for Scalable Safe Reinforcement Learning.&amp;rdquo; IEEE International Conference on Robotics and Automation (ICRA) 2020.
- Cheng-Yu Kuo, Yunduan Cui, and Takamitsu Matsubara. &amp;ldquo;Sample-and-computational-efficient Probabilistic Model Predictive Control with Random Features.&amp;rdquo; IEEE International Conference on Robotics and Automation (ICRA) 2020.
- Lingwei Zhu, Yunduan Cui, Go Takami, Hiroaki Kanokogi, and Takamitsu Matsubara. &amp;ldquo;Scalable Reinforcement Learning for Plant-wide Control of Vinyl Acetate Monomer Process.</description>
+      <description>Under Review  Yunduan Cui, Osaki Shigeki, and Takamitsu Matsubara. &amp;ldquo;Autonomous Boat Driving System using Sample-efficient Model Predictive Control-based Reinforcement Learning Approach.&amp;rdquo; Journal of Field Robotics  Journal   Lingwei Zhu, Yunduan Cui, Go Takami, Hiroaki Kanokogi, and Takamitsu Matsubara. &amp;ldquo;Scalable Reinforcement Learning for Plant-wide Control of Vinyl Acetate Monomer Process.&amp;rdquo; Control Engineering Practice. link
+  James Poon, Yunduan Cui, Jaime Valls Miro, and Takamitsu Matsubara. &amp;ldquo;Learning from demonstration for locally assistive mobility aids.</description>
     </item>
     
   </channel>
