@@ -5,7 +5,7 @@
     <link>http://cuiyd.github.io/authors/</link>
       <atom:link href="http://cuiyd.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright  © 2020 Yunduan Cui. All rights reserved.`</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright  © 2020 Yunduan Cui. All rights reserved.</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -17,10 +17,13 @@
       <link>http://cuiyd.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://cuiyd.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I will move to Center for Automotive Electronics, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences (SIAT) as a research associate Professor from April, 2020.&lt;/p&gt;
-&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
 &lt;hr&gt;
-&lt;p&gt;2019 Apr - present&lt;br&gt;
+&lt;p&gt;2020 Apr - present&lt;br&gt;
+&lt;strong&gt;Associate Professor&lt;/strong&gt;&lt;br&gt;
+Center for Automotive Electronics,&lt;br&gt;
+Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China.&lt;/p&gt;
+&lt;p&gt;2019 Apr - 2020 Mar&lt;br&gt;
 &lt;strong&gt;Researcher&lt;/strong&gt;&lt;br&gt;
 Robot Learning Laboratory,&lt;br&gt;
 Nara Institute of Science and Technology, Japan.&lt;/p&gt;
@@ -79,6 +82,7 @@ Xidian University, China.&lt;/p&gt;
 &lt;p&gt;The Society of Instrument and Control Engineers (SICE)&lt;/p&gt;
 &lt;h4 id=&#34;reviewer&#34;&gt;Reviewer:&lt;/h4&gt;
 &lt;p&gt;ICRA, IROS, CoRL, Humanoids&lt;/p&gt;
+&lt;p&gt;Neural Networks&lt;/p&gt;
 &lt;p&gt;IEEE Transactions on Cybernetics&lt;/p&gt;
 &lt;p&gt;IEEE Robotics and Automation Letters&lt;/p&gt;
 &lt;p&gt;Autonomous Robots&lt;/p&gt;
