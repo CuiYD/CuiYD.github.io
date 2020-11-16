@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://cuiyd.github.io/en/authors/admin/</loc>
+    <loc>http://cuiyd.github.io/authors/admin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -12,12 +12,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cuiyd.github.io/en/authors/admin/"
+                href="http://cuiyd.github.io/authors/admin/"
                 />
   </url>
   
   <url>
-    <loc>http://cuiyd.github.io/en/authors/</loc>
+    <loc>http://cuiyd.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -26,12 +26,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cuiyd.github.io/en/authors/"
+                href="http://cuiyd.github.io/authors/"
                 />
   </url>
   
   <url>
-    <loc>http://cuiyd.github.io/en/categories/</loc>
+    <loc>http://cuiyd.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -40,12 +40,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cuiyd.github.io/en/categories/"
+                href="http://cuiyd.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://cuiyd.github.io/en/post/</loc>
+    <loc>http://cuiyd.github.io/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -54,12 +54,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cuiyd.github.io/en/post/"
+                href="http://cuiyd.github.io/post/"
                 />
   </url>
   
   <url>
-    <loc>http://cuiyd.github.io/en/publication_types/</loc>
+    <loc>http://cuiyd.github.io/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -68,12 +68,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cuiyd.github.io/en/publication_types/"
+                href="http://cuiyd.github.io/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>http://cuiyd.github.io/en/publication/</loc>
+    <loc>http://cuiyd.github.io/publication/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -82,12 +82,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cuiyd.github.io/en/publication/"
+                href="http://cuiyd.github.io/publication/"
                 />
   </url>
   
   <url>
-    <loc>http://cuiyd.github.io/en/talk/</loc>
+    <loc>http://cuiyd.github.io/talk/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -96,12 +96,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cuiyd.github.io/en/talk/"
+                href="http://cuiyd.github.io/talk/"
                 />
   </url>
   
   <url>
-    <loc>http://cuiyd.github.io/en/tags/</loc>
+    <loc>http://cuiyd.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -110,12 +110,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cuiyd.github.io/en/tags/"
+                href="http://cuiyd.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://cuiyd.github.io/en/</loc>
+    <loc>http://cuiyd.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -124,7 +124,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cuiyd.github.io/en/"
+                href="http://cuiyd.github.io/"
                 />
   </url>
   
