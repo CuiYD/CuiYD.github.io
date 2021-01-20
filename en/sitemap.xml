@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://cuiyd.github.io/authors/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://cuiyd.github.io/zh/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://cuiyd.github.io/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://cuiyd.github.io/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://cuiyd.github.io/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://cuiyd.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://cuiyd.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://cuiyd.github.io/zh/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://cuiyd.github.io/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://cuiyd.github.io/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://cuiyd.github.io/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://cuiyd.github.io/zh/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://cuiyd.github.io/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://cuiyd.github.io/zh/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://cuiyd.github.io/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://cuiyd.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://cuiyd.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://cuiyd.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://cuiyd.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://cuiyd.github.io/"
+                />
+  </url>
+  
+</urlset>
