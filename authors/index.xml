@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Yunduan Cui</title>
-    <link>http://cuiyd.github.io/en/authors/</link>
-      <atom:link href="http://cuiyd.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cuiyunduan.vercel.app/authors/</link>
+      <atom:link href="https://cuiyunduan.vercel.app/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright  © 2020 Yunduan Cui. All rights reserved.</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright  © 2021 Yunduan Cui. All rights reserved.</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
-      <link>http://cuiyd.github.io/en/authors/</link>
+      <link>https://cuiyunduan.vercel.app/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>http://cuiyd.github.io/en/authors/admin/</link>
+      <link>https://cuiyunduan.vercel.app/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://cuiyd.github.io/en/authors/admin/</guid>
+      <guid>https://cuiyunduan.vercel.app/authors/admin/</guid>
       <description>&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;2020 Apr - present&lt;br&gt;
@@ -72,18 +72,20 @@ Xidian University, China.&lt;/p&gt;
 &lt;strong&gt;Japanese Government Scholarship (MEXT)&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id=&#34;professional-memberships-and-activities&#34;&gt;Professional Memberships and Activities&lt;/h3&gt;
 &lt;hr&gt;
-&lt;p&gt;The Institute of Electrical and Electronic Engineers (IEEE)&lt;/p&gt;
 &lt;h4 id=&#34;membership&#34;&gt;Membership&lt;/h4&gt;
+&lt;p&gt;The Institute of Electrical and Electronic Engineers (IEEE)&lt;/p&gt;
 &lt;p&gt;The Robotics Society of Japan (RSJ)&lt;/p&gt;
 &lt;p&gt;Japanese Neural Network Society (JNNS)&lt;/p&gt;
 &lt;p&gt;The Society of Instrument and Control Engineers (SICE)&lt;/p&gt;
 &lt;h4 id=&#34;reviewer&#34;&gt;Reviewer:&lt;/h4&gt;
 &lt;p&gt;ICRA, IROS, CoRL, Humanoids&lt;/p&gt;
 &lt;p&gt;Neural Networks&lt;/p&gt;
-&lt;p&gt;IEEE Transactions on Cybernetics&lt;/p&gt;
+&lt;p&gt;IEEE Transactions on Industrial Informatics&lt;/p&gt;
 &lt;p&gt;IEEE Robotics and Automation Letters&lt;/p&gt;
+&lt;p&gt;IEEE Transactions on Cybernetics&lt;/p&gt;
 &lt;p&gt;Autonomous Robots&lt;/p&gt;
 &lt;p&gt;Robotics and Autonomous Systems&lt;/p&gt;
+&lt;p&gt;IEEE Access&lt;/p&gt;
 &lt;p&gt;Advanced Robotics&lt;/p&gt;
 &lt;h4 id=&#34;committee&#34;&gt;Committee:&lt;/h4&gt;
 &lt;p&gt;IEEE International Conference on Advanced Robotics and Mechatronics (ICARM) 2019&lt;/p&gt;
