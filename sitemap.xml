@@ -1,14 +1,131 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>http://cuiyd.github.io/en/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>http://cuiyd.github.io/zh/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cui-yd-github-io-e343o6qhm.vercel.app/authors/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/zh/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cui-yd-github-io-e343o6qhm.vercel.app/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cui-yd-github-io-e343o6qhm.vercel.app/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cui-yd-github-io-e343o6qhm.vercel.app/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/zh/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cui-yd-github-io-e343o6qhm.vercel.app/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cui-yd-github-io-e343o6qhm.vercel.app/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/zh/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cui-yd-github-io-e343o6qhm.vercel.app/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/zh/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cui-yd-github-io-e343o6qhm.vercel.app/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cui-yd-github-io-e343o6qhm.vercel.app/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cui-yd-github-io-e343o6qhm.vercel.app/"
+                />
+  </url>
+  
+</urlset>
