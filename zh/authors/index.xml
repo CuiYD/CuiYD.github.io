@@ -5,7 +5,7 @@
     <link>https://cuiyunduan.vercel.app/zh/authors/</link>
       <atom:link href="https://cuiyunduan.vercel.app/zh/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>Copyright  © 2022 Yunduan Cui. All rights reserved.</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>Copyright  © 2023 Yunduan Cui. All rights reserved.</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -17,15 +17,20 @@
       <link>https://cuiyunduan.vercel.app/zh/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cuiyunduan.vercel.app/zh/authors/admin/</guid>
-      <description>&lt;p&gt;课题组诚挚欢迎本科同学报考推免研究生，在读研究生同学客座访问，博士毕业生申请博士后，请将简历发送至 yd.cui[at]siat.ac.cn&lt;/p&gt;
+      <description>&lt;p&gt;课题组以强化学习的工程应用为研究方向，面向复杂环境下的无人船、无人车、机器人以及大规模工业自动化系统研发稳健抵抗扰动、学习效率高的强化学习算法。
+主要研究方向包括但不限于概率模型驱动的强化学习、具有高采样效率的无模型强化学习、分治大规模系统的多智能体强化学习。
+课题组诚挚欢迎本科同学报考推免研究生，在读研究生同学客座访问，博士毕业生申请博士后，请将简历发送至 yd.cui[at]siat.ac.cn&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;课题组成员&lt;/strong&gt;&lt;br&gt;
-研三：尚致违，李任行（客座学生，中科大软件学院）&lt;br&gt;
-研二：夏镭，龚茗荣，王金成（南科大联培）&lt;br&gt;
-研一：黄文俊，缪晨阳，李尚德（南科大联培）&lt;br&gt;&lt;/p&gt;
+研三：夏镭，龚茗荣 &lt;br&gt;
+研二：黄文俊，缪晨阳，李尚德（南科大联培）&lt;br&gt;
+研一：王惠琳，江颖卓，孙明宇（南科大联培），MOHAMMAD MOHAMMADI (ANSO Scholarship) &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;客座实习生：王玥 (University College London)&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;毕业生：尚致违 (香港科技大学·广州)，李任行 (Singapore University of Technology and Design, SUTD)，王金成 (华为), 邓乃天 (腾讯)，张世天 (中国电子技术标准化研究院)&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;课题组承担项目&lt;/strong&gt;&lt;br&gt;
 国家自然科学基金青年项目，“面向环境不确定性的强化学习无人船控制方法”，30万，2022-2024，主持，在研 &lt;br&gt;
 中国科学院率先行动人才择优项目，500万，2021-2023，主持，在研 &lt;br&gt;
-国家重点研发计划，“物联网与智慧城市关键技术及示范专项”重点专项子课题，854万，2020-2023，参与，在研 &lt;br&gt;&lt;/p&gt;
+国家重点研发计划，“物联网与智慧城市关键技术及示范专项”重点专项子课题，854万，2020-2023，参与，在研 &lt;br&gt;
+企业横向研究课题（华为），80万，在研 &lt;br&gt;&lt;/p&gt;
 &lt;h3 id=&#34;工作经历&#34;&gt;工作经历&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;2020年 四月至今 &lt;br&gt;
@@ -69,19 +74,17 @@
 &lt;hr&gt;
 &lt;h4 id=&#34;会员&#34;&gt;会员&lt;/h4&gt;
 &lt;p&gt;The Institute of Electrical and Electronic Engineers (IEEE)&lt;/p&gt;
+&lt;p&gt;Chinese Association of Automation (CAA)&lt;/p&gt;
+&lt;p&gt;Chinese Association for Artificial Intelligence (CAAI)&lt;/p&gt;
 &lt;h4 id=&#34;审稿人&#34;&gt;审稿人&lt;/h4&gt;
 &lt;p&gt;ICRA, IROS, CoRL, Humanoids&lt;/p&gt;
-&lt;p&gt;IEEE Transactions on Industrial Informatics&lt;/p&gt;
-&lt;p&gt;IEEE Robotics and Automation Letters&lt;/p&gt;
-&lt;p&gt;IEEE Transactions on Cybernetics&lt;/p&gt;
-&lt;p&gt;Automatica&lt;/p&gt;
-&lt;p&gt;Neural Networks&lt;/p&gt;
-&lt;p&gt;Neurocomputing&lt;/p&gt;
-&lt;p&gt;Autonomous Robots&lt;/p&gt;
-&lt;p&gt;Robotics and Autonomous Systems&lt;/p&gt;
+&lt;p&gt;IEEE Transactions on Industrial Informatics,&lt;/p&gt;
+&lt;p&gt;IEEE Transactions on Cybernetics,&lt;/p&gt;
+&lt;p&gt;IEEE Robotics and Automation Letters,&lt;/p&gt;
+&lt;p&gt;IEEE Transactions on Vehicular Technology,&lt;/p&gt;
+&lt;p&gt;Automatica, Neural Networks, Neurocomputing,&lt;/p&gt;
+&lt;p&gt;Autonomous Robots, Robotics and Autonomous Systems,&lt;/p&gt;
 &lt;p&gt;Ocean Engineering&lt;/p&gt;
-&lt;p&gt;IEEE Access&lt;/p&gt;
-&lt;p&gt;Advanced Robotics&lt;/p&gt;
 &lt;h4 id=&#34;编辑&#34;&gt;编辑&lt;/h4&gt;
 &lt;p&gt;Special issue &amp;ldquo;Deformable object manipulation&amp;rdquo;, Frontiers in Neurorobotics&lt;/p&gt;
 &lt;h4 id=&#34;编委会&#34;&gt;编委会&lt;/h4&gt;

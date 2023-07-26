@@ -5,7 +5,7 @@
     <link>https://cuiyunduan.vercel.app/authors/</link>
       <atom:link href="https://cuiyunduan.vercel.app/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright  © 2022 Yunduan Cui. All rights reserved.</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright  © 2023 Yunduan Cui. All rights reserved.</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -17,7 +17,14 @@
       <link>https://cuiyunduan.vercel.app/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cuiyunduan.vercel.app/authors/admin/</guid>
-      <description>&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
+      <description>&lt;p&gt;My group focuses on the engineering applications of reinforcement learning, specifically developing robust and efficient control algorithms for unmanned ships, unmanned vehicles, robots, and large-scale industrial automation systems operating in complex environments.&lt;/p&gt;
+&lt;p&gt;We welcome undergraduate students, visiting students and postdoctoral researcher. Please send your resume to yd.cui[at]siat.ac.cn&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Members&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;M3: Lei Xia, Mingrong Gong &lt;br&gt;
+M2: Wenjun Huang, Chenyang Miao, Shangde Li &lt;br&gt;
+M1: Huilin Wang, Yingzhuo Jiang, Mingyu Sun, MOHAMMAD MOHAMMADI (ANSO Scholarship) &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Visiting Students: Yue Wang (University College London)&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;2020 Apr - present&lt;br&gt;
 &lt;strong&gt;Associate Professor&lt;/strong&gt;&lt;br&gt;
@@ -39,6 +46,10 @@ Doshisha University, Japan.&lt;/p&gt;
 Xidian University, China.&lt;/p&gt;
 &lt;h3 id=&#34;award&#34;&gt;Award&lt;/h3&gt;
 &lt;hr&gt;
+&lt;p&gt;2021 May&lt;br&gt;
+&lt;strong&gt;Shenzhen Overseas High-Caliber Personnel (level B)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2020 Nov&lt;br&gt;
+&lt;strong&gt;The Hundred Talents Plan of the Chinese Academy of Sciences&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;2019 Nov&lt;br&gt;
 &lt;strong&gt;SICE International Young Authors Award 2019 (IROS)&lt;/strong&gt; &lt;br&gt;
 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems&lt;/p&gt;
@@ -56,19 +67,17 @@ Xidian University, China.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;membership&#34;&gt;Membership&lt;/h4&gt;
 &lt;p&gt;The Institute of Electrical and Electronic Engineers (IEEE)&lt;/p&gt;
+&lt;p&gt;Chinese Association of Automation (CAA)&lt;/p&gt;
+&lt;p&gt;Chinese Association for Artificial Intelligence (CAAI)&lt;/p&gt;
 &lt;h4 id=&#34;reviewer&#34;&gt;Reviewer&lt;/h4&gt;
 &lt;p&gt;ICRA, IROS, CoRL, Humanoids&lt;/p&gt;
-&lt;p&gt;IEEE Transactions on Industrial Informatics&lt;/p&gt;
-&lt;p&gt;IEEE Robotics and Automation Letters&lt;/p&gt;
-&lt;p&gt;IEEE Transactions on Cybernetics&lt;/p&gt;
-&lt;p&gt;Automatica&lt;/p&gt;
-&lt;p&gt;Neural Networks&lt;/p&gt;
-&lt;p&gt;Neurocomputing&lt;/p&gt;
-&lt;p&gt;Autonomous Robots&lt;/p&gt;
-&lt;p&gt;Robotics and Autonomous Systems&lt;/p&gt;
+&lt;p&gt;IEEE Transactions on Industrial Informatics,&lt;/p&gt;
+&lt;p&gt;IEEE Transactions on Cybernetics,&lt;/p&gt;
+&lt;p&gt;IEEE Robotics and Automation Letters,&lt;/p&gt;
+&lt;p&gt;IEEE Transactions on Vehicular Technology,&lt;/p&gt;
+&lt;p&gt;Automatica, Neural Networks, Neurocomputing,&lt;/p&gt;
+&lt;p&gt;Autonomous Robots, Robotics and Autonomous Systems,&lt;/p&gt;
 &lt;p&gt;Ocean Engineering&lt;/p&gt;
-&lt;p&gt;IEEE Access&lt;/p&gt;
-&lt;p&gt;Advanced Robotics&lt;/p&gt;
 &lt;h4 id=&#34;editor&#34;&gt;Editor&lt;/h4&gt;
 &lt;p&gt;Special issue &amp;ldquo;Deformable object manipulation&amp;rdquo;, Frontiers in Neurorobotics&lt;/p&gt;
 &lt;h4 id=&#34;committee&#34;&gt;Committee&lt;/h4&gt;
