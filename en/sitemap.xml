@@ -1,131 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://cuiyunduan.vercel.app/authors/admin/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://cuiyunduan.vercel.app/zh/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://cuiyunduan.vercel.app/authors/admin/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cuiyunduan.vercel.app/authors/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://cuiyunduan.vercel.app/zh/authors/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://cuiyunduan.vercel.app/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cuiyunduan.vercel.app/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://cuiyunduan.vercel.app/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://cuiyunduan.vercel.app/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cuiyunduan.vercel.app/post/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://cuiyunduan.vercel.app/zh/post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://cuiyunduan.vercel.app/post/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cuiyunduan.vercel.app/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://cuiyunduan.vercel.app/zh/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://cuiyunduan.vercel.app/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cuiyunduan.vercel.app/publication/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://cuiyunduan.vercel.app/zh/publication/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://cuiyunduan.vercel.app/publication/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cuiyunduan.vercel.app/talk/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://cuiyunduan.vercel.app/zh/talk/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://cuiyunduan.vercel.app/talk/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cuiyunduan.vercel.app/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://cuiyunduan.vercel.app/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://cuiyunduan.vercel.app/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cuiyunduan.vercel.app/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://cuiyunduan.vercel.app/zh/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://cuiyunduan.vercel.app/"
                 />
   </url>
-  
 </urlset>
